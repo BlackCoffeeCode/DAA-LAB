@@ -1,4 +1,4 @@
- //WAP of factorial of a number using recursion and without recursion
+ //Factorial with_&_without recursion
 
 //Using Recursion
 #include <stdio.h>
