@@ -1,4 +1,4 @@
-//WAP of linear search usinhg recursion and without recursion
+//Linear with_&_without recursion
 
 //Without recursion
 #include <stdio.h>
