@@ -1,4 +1,4 @@
-// Factorial of a number using recursion and call by reference 
+// Factorial recursion and call by reference 
 
 #include <stdio.h>
 
