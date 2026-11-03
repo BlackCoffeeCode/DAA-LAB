@@ -1,4 +1,4 @@
-// Optimized implementation of Bubble sort
+// Bubble sort_Optimized_FLAG implementation of
 #include <stdbool.h>
 #include <stdio.h>
 
