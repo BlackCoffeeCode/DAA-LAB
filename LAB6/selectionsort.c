@@ -1,3 +1,5 @@
+selectionsort
+
 #include <stdio.h>
 
 void selectionSort(int a[], int n, int i) {
