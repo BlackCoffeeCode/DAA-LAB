@@ -1,4 +1,4 @@
-//binary
+//binary_search
 #include <stdio.h>
 
 int main() {
