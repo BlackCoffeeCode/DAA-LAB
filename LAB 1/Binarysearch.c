@@ -1,4 +1,4 @@
-//WAP of binary search using recursion and without recursion
+//binary search with_&_without recursion
 
 //Without
 #include <stdio.h>
