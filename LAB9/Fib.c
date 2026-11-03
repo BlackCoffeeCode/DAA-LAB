@@ -1,3 +1,5 @@
+Fibonacci using Dynamic Programming
+
 #include <stdio.h>
 
 int table[100];
