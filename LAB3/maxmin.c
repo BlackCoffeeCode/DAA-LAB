@@ -1,4 +1,4 @@
-//maxmin of array without divide and conquer
+//MaxMin without DAC
 #include <stdio.h>
 
 struct MinMax {
