@@ -1,3 +1,5 @@
+Performed Longest Common Sub-sequence using bottom up dp approach
+
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
